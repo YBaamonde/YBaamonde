@@ -1,6 +1,5 @@
 # 👨‍💻 Sobre Mí:
 💾 Graduado en Ingeniería Informática, Ciberseguridad y Hacking Ético<br>👀 Apasionado por la tecnología y la ciberseguridad<br>⚡ Además de la tecnología, me encanta el ciclismo y experimentar con diferentes distribuciones de Linux en mi tiempo libre.<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml4emkwdGl3MXhwMWxxZHB4N3ZrbTRrdDhhOXlweW44d2k5bHhsbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Jqy5D7DFs0i5EPkWfV/giphy.gif" align="right" width="500px">
 
 # 📊 Estadísticas de GitHub:
 
@@ -15,4 +14,5 @@
 ---
 
 ## 🌐 Contáctame:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-baamonde) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagobaamondesoengas@gmail.com) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagobaamonde@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-baamonde) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagobaamondesoengas@gmail.com) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagobaamonde@gmail.com) </br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml4emkwdGl3MXhwMWxxZHB4N3ZrbTRrdDhhOXlweW44d2k5bHhsbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Jqy5D7DFs0i5EPkWfV/giphy.gif" align="right" width="400px">
